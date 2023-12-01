@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+margin: 0;
+color: #ffffff;
+background: #000000 url(leaf.jpg)
+no-repeat
+}
+h1 {
+margin: 80px 0 0 80px;
+font: bold italic x-large
+"Times New Roman",Times,serif
+}
+
