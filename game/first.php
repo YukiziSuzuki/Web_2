@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>無題ドキュメント</title>
+<title>Numer0n_home</title>
 <link href="solt.css" rel="stylesheet" type="text/css">
 </head>
 
